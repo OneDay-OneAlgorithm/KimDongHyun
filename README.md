@@ -6,7 +6,7 @@
 | ---- | ------- | -------------- |
 | 1/1  |    [15964](https://www.acmicpc.net/problem/15964)     |       ✅       |
 | 1/2  |    [2475](https://www.acmicpc.net/problem/2475)     |       ✅       |
-| 1/3  |         |                |
+| 1/3  |  [2754](https://www.acmicpc.net/problem/2754)      |         ✅        |
 | 1/4  |         |                |
 | 1/5  |         |                |
 | 1/6  |         |                |
