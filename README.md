@@ -3,13 +3,13 @@
 ### 1월
 
 | 날짜 | 푼 문제 | 문제 풀이 여부 |
-| ---- | ------- | -------------- |
-| 1/1  |    [15964](https://www.acmicpc.net/problem/15964)     |       ✅       |
+| ---- | ------- | :------: |
+| 1/1  |    [15964](https://www.acmicpc.net/problem/15964)| ✅ |
 | 1/2  |    [2475](https://www.acmicpc.net/problem/2475)     |       ✅       |
 | 1/3  |  [2754](https://www.acmicpc.net/problem/2754)      |         ✅        |
 | 1/4  |  [2743](https://www.acmicpc.net/problem/2743)  |          ✅       |
 | 1/5  |  [2869](https://www.acmicpc.net/problem/2869)       |        ✅        |
-| 1/6  |  [2744](https://www.acmicpc.net/problem/2744)       |      ✅           |
+| 1/6  |  [2744](https://www.acmicpc.net/problem/2744)     [18108](https://www.acmicpc.net/problem/18108)     |      ✅         |
 | 1/7  |         |                |
 | 1/8  |         |                |
 | 1/9  |         |                |
