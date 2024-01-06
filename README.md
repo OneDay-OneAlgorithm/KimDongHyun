@@ -9,7 +9,7 @@
 | 1/3  |  [2754](https://www.acmicpc.net/problem/2754)      |         ✅        |
 | 1/4  |  [2743](https://www.acmicpc.net/problem/2743)  |          ✅       |
 | 1/5  |  [2869](https://www.acmicpc.net/problem/2869)       |        ✅        |
-| 1/6  |         |                |
+| 1/6  |  [2744](https://www.acmicpc.net/problem/2744)       |      ✅           |
 | 1/7  |         |                |
 | 1/8  |         |                |
 | 1/9  |         |                |
