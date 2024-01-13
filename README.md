@@ -16,7 +16,7 @@
 | 1/10 |     [2742](https://www.acmicpc.net/problem/2742)    [3046](https://www.acmicpc.net/problem/3046)         |         ✅        |
 | 1/11 |     [1085](https://www.acmicpc.net/problem/1085)      |        ✅           |
 | 1/12 |      [5532](https://www.acmicpc.net/problem/5532)   |          ✅      |
-| 1/13 |         |                |
+| 1/13 |   [4470](https://www.acmicpc.net/problem/4470)        |         ✅        |
 | 1/14 |         |                |
 | 1/15 |         |                |
 | 1/16 |         |                |
