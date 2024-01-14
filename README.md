@@ -17,7 +17,7 @@
 | 1/11 |     [1085](https://www.acmicpc.net/problem/1085)      |        ✅           |
 | 1/12 |      [5532](https://www.acmicpc.net/problem/5532)   |          ✅      |
 | 1/13 |   [4470](https://www.acmicpc.net/problem/4470)        |         ✅        |
-| 1/14 |   [10039](https://www.acmicpc.net/problem/10039)        |        ✅        |
+| 1/14 |   [10039](https://www.acmicpc.net/problem/10039)    [10430](https://www.acmicpc.net/problem/10430)         |        ✅        |
 | 1/15 |         |                |
 | 1/16 |         |                |
 | 1/17 |         |                |
