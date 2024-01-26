@@ -29,7 +29,7 @@
 | 1/23 |    [9316](https://www.acmicpc.net/problem/9316)   [1181](https://www.acmicpc.net/problem/1181)        |       ✅         |
 | 1/24 |    [5717](https://www.acmicpc.net/problem/5717)  [4101](https://www.acmicpc.net/problem/4101)       |           ✅     |
 | 1/25 |       [1427](https://www.acmicpc.net/problem/1427)   |           ✅       |
-| 1/26 |         |                |
+| 1/26 |         [1049](https://www.acmicpc.net/problem/1049)    |         ✅       |
 | 1/27 |         |                |
 | 1/28 |         |                |
 | 1/29 |         |                |
