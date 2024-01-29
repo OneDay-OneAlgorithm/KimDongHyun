@@ -32,7 +32,7 @@
 | 1/26 |         [1049](https://www.acmicpc.net/problem/1049)    |         ✅       |
 | 1/27 |     [1789](https://www.acmicpc.net/problem/1789)         |       ✅         |
 | 1/28 |    [2751](https://www.acmicpc.net/problem/2751)      |        ✅      |
-| 1/29 |         |                |
+| 1/29 |       [10814](https://www.acmicpc.net/problem/10814)   |       ✅          |
 | 1/30 |         |                |
 | 1/31 |         |                |
 
