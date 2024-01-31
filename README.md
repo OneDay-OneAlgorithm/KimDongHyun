@@ -34,7 +34,7 @@
 | 1/28 |    [2751](https://www.acmicpc.net/problem/2751)      |        ✅      |
 | 1/29 |       [10814](https://www.acmicpc.net/problem/10814)   |       ✅          |
 | 1/30 |      [2839](https://www.acmicpc.net/problem/2839)    |           ✅       |
-| 1/31 |         |                |
+| 1/31 |    [1427](https://www.acmicpc.net/problem/1427)     [11942](https://www.acmicpc.net/problem/11942)    |  ✅       |
 
 ### 2월
 
