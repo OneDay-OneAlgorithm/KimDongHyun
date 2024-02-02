@@ -41,7 +41,7 @@
 | 날짜 | 푼 문제 | 문제 풀이 여부 |
 | ---- | ------- | -------------- |
 | 2/1  |      [1475](https://www.acmicpc.net/problem/1475)    |        ✅        |
-| 2/2  |      [10818](https://www.acmicpc.net/problem/10818)   |       ✅         |
+| 2/2  |      [10817](https://www.acmicpc.net/problem/10817) [10818](https://www.acmicpc.net/problem/10818)   |       ✅         |
 | 2/3  |         |                |
 | 2/4  |         |                |
 | 2/5  |         |                |
