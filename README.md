@@ -44,8 +44,8 @@
 | 2/2  |      [10817](https://www.acmicpc.net/problem/10817) [10818](https://www.acmicpc.net/problem/10818)   |       ✅         |
 | 2/3  |      [1436](https://www.acmicpc.net/problem/1436)  [15680](https://www.acmicpc.net/problem/15680)  |        ✅        |
 | 2/4  |      [23795](https://www.acmicpc.net/problem/23795) [20499](https://www.acmicpc.net/problem/20499)  |       ✅         |
-| 2/5  |      [10101](https://www.acmicpc.net/problem/10101)   |      ✅        |
-| 2/6  |         |                |
+| 2/5  |      [10101](https://www.acmicpc.net/problem/10101)   |      ✅      |
+| 2/6  |      [10156](https://www.acmicpc.net/problem/10156)   |      ✅      |
 | 2/7  |         |                |
 | 2/8  |         |                |
 | 2/9  |         |                |
