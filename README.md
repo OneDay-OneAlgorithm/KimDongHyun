@@ -46,7 +46,7 @@
 | 2/4  |      [23795](https://www.acmicpc.net/problem/23795) [20499](https://www.acmicpc.net/problem/20499)  |       ✅         |
 | 2/5  |      [10101](https://www.acmicpc.net/problem/10101)   |      ✅      |
 | 2/6  |      [10156](https://www.acmicpc.net/problem/10156)   |      ✅      |
-| 2/7  |         |                |
+| 2/7  |      [10156](https://www.acmicpc.net/problem/10156)   |      ✅      |
 | 2/8  |         |                |
 | 2/9  |         |                |
 | 2/10 |         |                |
