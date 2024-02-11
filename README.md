@@ -49,9 +49,9 @@
 | 2/7  |      [10156](https://www.acmicpc.net/problem/10156) [15726](https://www.acmicpc.net/problem/15726)  |      ✅      |
 | 2/8  |      [2953](https://www.acmicpc.net/problem/2953)   |       ✅        |
 | 2/9  |      [2953](https://www.acmicpc.net/problem/2953)   |       ✅        |
-| 2/10 |         |                |
-| 2/11 |         |                |
-| 2/12 |         |                |
+| 2/10 |    휴가     |                |
+| 2/11 |    휴가     |                |
+| 2/12 |    휴가     |                |
 | 2/13 |         |                |
 | 2/14 |         |                |
 | 2/15 |         |                |
