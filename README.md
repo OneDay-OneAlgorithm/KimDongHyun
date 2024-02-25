@@ -64,7 +64,7 @@
 | 2/22 |      [5338](https://www.acmicpc.net/problem/5338)   |       ✅        |
 | 2/23 |      [19944](https://www.acmicpc.net/problem/19944)   |       ✅        |
 | 2/24 |      [15962](https://www.acmicpc.net/problem/15962)   |       ✅        |
-| 2/25 |         |                |
+| 2/25 |   혹한기 훈련     |        ❎        |
 | 2/26 |   혹한기 훈련     |        ❎        |
 | 2/27 |   혹한기 훈련     |        ❎        |
 | 2/28 |   혹한기 훈련     |        ❎        |
